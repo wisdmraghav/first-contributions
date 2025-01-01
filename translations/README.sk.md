@@ -109,17 +109,17 @@ Teraz vytvorte žiadosť o pretiahnutie vašej vetvy do originálneho repozitár
 
 Blahoželáme! Práve ste dokončili štandardný _fork -> clone -> edit ->_ priebeh práce (anglicky *workflow), s ktorým sa ako prispievateľ do projektov stretnete dennodenne.
 
-Oslávte svoj prvý príspevok so svojimi priateľmi a nasledovníkmi cez [webovú aplikáciu](https://roshanjossey.github.io/first-contributions/#social-share).
+Oslávte svoj prvý príspevok so svojimi priateľmi a nasledovníkmi cez [webovú aplikáciu](https://firstcontributions.github.io/#social-share).
 
 V prípade, ak by ste mali akékoľvek otázky alebo potrebovali pomoc, môžete sa [pridat k našemu Slack teamu](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Teraz vám už nič nebráni v prispievaní do ostatných projektov. Pripravili sme pre vás zoznam projektov, ktoré majú jednoduché záležitosti na vyriešenie/naprogramovanie, s ktorými môžete začať. Pozrite sa [tu](https://roshanjossey.github.io/first-contributions/#project-list).
+Teraz vám už nič nebráni v prispievaní do ostatných projektov. Pripravili sme pre vás zoznam projektov, ktoré majú jednoduché záležitosti na vyriešenie/naprogramovanie, s ktorými môžete začať. Pozrite sa [tu](https://firstcontributions.github.io/#project-list).
 
 ### [Ďalšie materiály](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Návod za použitia ďalších nástrojov
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width=" 100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia /commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https:/ /firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width=" 100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia /commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="https:/ /firstcontributions.github.io/assets/Readme/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md )|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|

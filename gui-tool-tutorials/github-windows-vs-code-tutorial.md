@@ -5,7 +5,7 @@
 
 # First Contributions
 
-| <img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="40"> | Visual Studio Code |
+| <img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width="40"> | Visual Studio Code |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 
 
@@ -66,7 +66,7 @@ Open up the command palette again by pressing `F1`. Type in `branch` and select 
 
 Open `Contributors.md` and add your name anywhere in the file. This file contains GFM (GitHub Flavored Markdown) which is a proprietary flavor of the <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> syntax.
 
-Copy one of the other contributors&apos; lines and modify it with your name to make sure you get the syntax right - it can be picky.
+Copy one of the other contributors&apos; lines and modify it with your name to make sure you get the syntax right - it can be picky. Save file to register change.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-changes.png" alt="Add your name" />
 
